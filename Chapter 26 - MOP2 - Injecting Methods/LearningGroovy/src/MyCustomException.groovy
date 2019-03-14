@@ -1,0 +1,4 @@
+
+class MyCustomException extends Exception {
+
+}

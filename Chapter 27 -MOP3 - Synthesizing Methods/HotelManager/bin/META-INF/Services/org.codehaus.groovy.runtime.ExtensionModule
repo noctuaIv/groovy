@@ -1,0 +1,3 @@
+moduleName = JodaTimeExtension
+moduleVersion = 1.0
+extensionClasses = extensions.JodaTimeExtension

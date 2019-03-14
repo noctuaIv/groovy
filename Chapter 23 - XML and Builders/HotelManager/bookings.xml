@@ -1,0 +1,32 @@
+<bookings>
+  <booking>
+    <customer>
+      <name>Matt Greencroft</name>
+      <address>1 Some Road,  My Town</address>
+      <eMail>matt@somecompany.com</eMail>
+      <phoneNumber>012345</phoneNumber>
+    </customer>
+    <room>4</room>
+    <date>2014-04-20</date>
+  </booking>
+  <booking>
+    <customer>
+      <name>David Williams</name>
+      <address>3 High Street,  My Town</address>
+      <eMail>david@somecompany.com</eMail>
+      <phoneNumber>012345</phoneNumber>
+    </customer>
+    <room>8</room>
+    <date>2014-04-20</date>
+  </booking>
+  <booking>
+    <customer>
+      <name>Michelle Black</name>
+      <address>17 Low Avenue,  My Town</address>
+      <eMail>michelle@somecompany.com</eMail>
+      <phoneNumber>012345</phoneNumber>
+    </customer>
+    <room>9</room>
+    <date>2014-04-20</date>
+  </booking>
+</bookings>

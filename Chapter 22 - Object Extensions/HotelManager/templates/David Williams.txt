@@ -1,0 +1,16 @@
+//Template for check-in
+
+
+*********************
+* CHECK IN LETTER   *
+*********************
+
+CHECK IN FOR 20 April 2014
+
+Dear David Williams
+
+Welcome to the Hotel! 
+
+You have been allocated room 8
+
+We hope you have a very pleasant stay with us.

@@ -1,0 +1,115 @@
+<Rooms>
+  <Room roomNumber="1">
+     <singleBeds>0</singleBeds>
+     <doubleBeds>1</doubleBeds>
+     <features>
+        <feature>NON_SMOKING</feature>
+        <feature>WHEELCHAIR_ACCESS</feature>
+        <feature>SEA_VIEW</feature>
+      </features>
+  </Room>
+  <Room roomNumber="2">
+    <singleBeds>1</singleBeds>
+    <doubleBeds>0</doubleBeds>
+    <features>
+        <feature>WHEELCHAIR_ACCESS</feature>
+    </features>
+  </Room>
+  <Room roomNumber="3">
+    <singleBeds>2</singleBeds>
+    <doubleBeds>0</doubleBeds>
+    <features>
+        <feature>NON_SMOKING</feature>
+        <feature>SEA_VIEW</feature>
+      </features>
+  </Room>
+  <Room roomNumber="4">
+    <singleBeds>0</singleBeds>
+    <doubleBeds>1</doubleBeds>
+    <features>
+        <feature>NON_SMOKING</feature>
+        <feature>HAS_JACCUZI</feature>
+      </features>
+  </Room>
+  <Room roomNumber="5">
+    <singleBeds>0</singleBeds>
+    <doubleBeds>2</doubleBeds>
+    <features>
+        <feature>NON_SMOKING</feature>
+        <feature>WHEELCHAIR_ACCESS</feature>
+        <feature>SEA_VIEW</feature>
+      </features>
+  </Room>
+  <Room roomNumber="6">
+    <singleBeds>2</singleBeds>
+    <doubleBeds>1</doubleBeds>
+    <features>
+        <feature>WHEELCHAIR_ACCESS</feature>
+        <feature>SEA_VIEW</feature>
+        <feature>HAS_JACCUZI</feature>        
+      </features>
+  </Room>
+  <Room roomNumber="7">
+    <singleBeds>2</singleBeds>
+    <doubleBeds>1</doubleBeds>
+    <features>
+        <feature>NON_SMOKING</feature>
+        <feature>SEA_VIEW</feature>
+      </features>
+  </Room>
+  <Room roomNumber="8">
+    <singleBeds>0</singleBeds>
+    <doubleBeds>2</doubleBeds>
+    <features>
+        <feature>NON_SMOKING</feature>
+        <feature>SEA_VIEW</feature>
+      </features>
+  </Room>
+  <Room roomNumber="9">
+    <singleBeds>0</singleBeds>
+    <doubleBeds>1</doubleBeds>
+    <features>
+        <feature>NON_SMOKING</feature>
+        <feature>WHEELCHAIR_ACCESS</feature>        
+        <feature>SEA_VIEW</feature>
+      </features>
+
+  </Room>
+  <Room roomNumber="10">
+    <singleBeds>1</singleBeds>
+    <doubleBeds>0</doubleBeds>
+    <features>
+        <feature>NON_SMOKING</feature>
+        <feature>SEA_VIEW</feature>
+      </features>
+  </Room>
+  <Room roomNumber="11">
+    <singleBeds>0</singleBeds>
+    <doubleBeds>1</doubleBeds>
+   <features>
+        <feature>WHEELCHAIR_ACCESS</feature>
+        <feature>HAS_JACCUZI</feature>        
+      </features>
+  </Room>
+  <Room roomNumber="12">
+    <singleBeds>1</singleBeds>
+    <doubleBeds>0</doubleBeds>
+    <features>
+        <feature>NON_SMOKING</feature>
+        <feature>SEA_VIEW</feature>
+      </features>
+  </Room>
+  <Room roomNumber="13">
+    <singleBeds>2</singleBeds>
+    <doubleBeds>0</doubleBeds>
+   <features>
+        <feature>WHEELCHAIR_ACCESS</feature>    
+      </features>  </Room>
+  <Room roomNumber="14">
+    <singleBeds>0</singleBeds>
+    <doubleBeds>1</doubleBeds>
+    <features>
+        <feature>SEA_VIEW</feature>
+      </features>
+  </Room>	
+</Rooms>

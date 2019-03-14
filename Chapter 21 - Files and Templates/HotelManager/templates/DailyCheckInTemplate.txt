@@ -1,0 +1,16 @@
+//Template for check-in
+
+
+*********************
+* CHECK IN LETTER   *
+*********************
+
+CHECK IN FOR $date
+
+Dear $customer.name
+
+Welcome to the Hotel! 
+
+You have been allocated room $room.roomNumber
+
+We hope you have a very pleasant stay with us.

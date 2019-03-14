@@ -1,0 +1,14 @@
+<customers>
+  <customer id='0'>
+    <name>Carlie</name>
+    <email>carlie@email.com</email>
+  </customer>
+  <customer id='1'>
+    <name>Simon</name>
+    <email>simon@email.com</email>
+  </customer>
+  <customer id='2'>
+    <name>Yvonne</name>
+    <email>yvonne@email.com</email>
+  </customer>
+</customers>
